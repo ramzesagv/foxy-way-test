@@ -1,6 +1,7 @@
 <script setup>
+import Main from "./pages/Main.vue";
 </script>
 
 <template>
-  <div>asdaad</div>
+  <Main />
 </template>

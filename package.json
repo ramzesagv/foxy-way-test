@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^2.2.36",
     "sass": "^1.58.3",
-    "vue": "^3.2.45"
+    "vue": "^3.2.45",
+    "vue3-carousel": "^0.2.12"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",

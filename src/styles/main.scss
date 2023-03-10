@@ -1,12 +1,12 @@
 @import "reset";
-@import "fonts";
+@import "global";
+@import "vue3-carousel/dist/carousel.css";
+@import "element-plus/dist/index.css";
 
 body {
-  font-family: 'FiraSans', 'sans-serif';
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   overflow: auto !important;
   background: #fff;
-  color: #000;
+  color: #111;
 }
-
-
